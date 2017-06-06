@@ -1,10 +1,3 @@
----
-title: 关于欧拉计划
-date: 2017-06-05 17:45:25
-categories: 欧拉计划
-tags: 欧拉计划
----
-
 What is Project Euler?
 什么是欧拉计划？
 
