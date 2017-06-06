@@ -1,44 +1,32 @@
 ---
-title: 欧拉计划
+title: 关于欧拉计划
 date: 2017-06-05 17:45:25
 categories: 欧拉计划
 tags: 欧拉计划
 ---
 
+What is Project Euler?
+什么是欧拉计划？
+
 Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.
 欧拉计划是一系列有挑战性的数学与计算机编程题；要解开它们，需要的不止是数学知识：尽管数学能够帮助你找到一些优雅而有效的方法，大多数题目仍需要借助计算机和编程技巧来完成解答。
 
-More info: [Read More](/Project-Euler/about)
+The motivation for starting Project Euler, and its continuation, is to provide a platform for the inquiring mind to delve into unfamiliar areas and learn new concepts in a fun and recreational context.
+创立欧拉计划的初衷，以及不断维持其运行的动力，在于为好奇的头脑提供一个平台，使他们能够在有趣愉悦的氛围中，探索未知领域，学习新的知识。
 
----
 
-## 题目汇总
+Who are the problems aimed at?
+这些题目的受众是谁？
 
-本页面为所有题目汇总，点击相应题号进入该题，或直接访问:
+The intended audience include students for whom the basic curriculum is not feeding their hunger to learn, adults whose background was not primarily mathematics but had an interest in things mathematical, and professionals who want to keep their problem solving and mathematics on the cutting edge.
+欧拉计划预期的受众，包括在基础课程外学有余力的学生、非数学背景但对数学感兴趣的成年人以及希望磨炼解题能力或是数学能力的专业人士。
 
-```
-http://xiaolong.li/Project-Euler/题号
-```
 
-001 - 020 | 021 - 040 | 041 - 060 | 061 - 080 | 081 - 100
----|---
-[001](/Project-Euler/001) | [021](/Project-Euler/021) | [041](/Project-Euler/041) | [061](/Project-Euler/061) | [081](/Project-Euler/081)
-[002](/Project-Euler/002) | [022](/Project-Euler/022) | [042](/Project-Euler/042) | [062](/Project-Euler/062) | [082](/Project-Euler/082)
-[003](/Project-Euler/003) | [023](/Project-Euler/023) | [043](/Project-Euler/043) | [063](/Project-Euler/063) | [083](/Project-Euler/083)
-[004](/Project-Euler/004) | [024](/Project-Euler/024) | [044](/Project-Euler/044) | [064](/Project-Euler/064) | [084](/Project-Euler/084)
-[005](/Project-Euler/005) | [025](/Project-Euler/025) | [045](/Project-Euler/045) | [065](/Project-Euler/065) | [085](/Project-Euler/085)
-[006](/Project-Euler/006) | [026](/Project-Euler/026) | [046](/Project-Euler/046) | [066](/Project-Euler/066) | [086](/Project-Euler/086)
-[007](/Project-Euler/007) | [027](/Project-Euler/027) | [047](/Project-Euler/047) | [067](/Project-Euler/067) | [087](/Project-Euler/087)
-[008](/Project-Euler/008) | [028](/Project-Euler/028) | [048](/Project-Euler/048) | [068](/Project-Euler/068) | [088](/Project-Euler/088)
-[009](/Project-Euler/009) | [029](/Project-Euler/029) | [049](/Project-Euler/049) | [069](/Project-Euler/069) | [089](/Project-Euler/089)
-[010](/Project-Euler/010) | [030](/Project-Euler/030) | [050](/Project-Euler/050) | [070](/Project-Euler/070) | [090](/Project-Euler/090)
-[011](/Project-Euler/011) | [031](/Project-Euler/031) | [051](/Project-Euler/051) | [071](/Project-Euler/071) | [091](/Project-Euler/091)
-[012](/Project-Euler/012) | [032](/Project-Euler/032) | [052](/Project-Euler/052) | [072](/Project-Euler/072) | [092](/Project-Euler/092)
-[013](/Project-Euler/013) | [033](/Project-Euler/033) | [053](/Project-Euler/053) | [073](/Project-Euler/073) | [093](/Project-Euler/093)
-[014](/Project-Euler/014) | [034](/Project-Euler/034) | [054](/Project-Euler/054) | [074](/Project-Euler/074) | [094](/Project-Euler/094)
-[015](/Project-Euler/015) | [035](/Project-Euler/035) | [055](/Project-Euler/055) | [075](/Project-Euler/075) | [095](/Project-Euler/095)
-[016](/Project-Euler/016) | [036](/Project-Euler/036) | [056](/Project-Euler/056) | [076](/Project-Euler/076) | [096](/Project-Euler/096)
-[017](/Project-Euler/017) | [037](/Project-Euler/037) | [057](/Project-Euler/057) | [077](/Project-Euler/077) | [097](/Project-Euler/097)
-[018](/Project-Euler/018) | [038](/Project-Euler/038) | [058](/Project-Euler/058) | [078](/Project-Euler/078) | [098](/Project-Euler/098)
-[019](/Project-Euler/019) | [039](/Project-Euler/039) | [059](/Project-Euler/059) | [079](/Project-Euler/079) | [099](/Project-Euler/099)
-[020](/Project-Euler/020) | [040](/Project-Euler/040) | [060](/Project-Euler/060) | [080](/Project-Euler/080) | [100](/Project-Euler/100)
+Can anyone solve the problems?
+所有人都能解开这些题目吗？
+
+The problems range in difficulty and for many the experience is inductive chain learning. That is, by solving one problem it will expose you to a new concept that allows you to undertake a previously inaccessible problem. So the determined participant will slowly but surely work his/her way through every problem.
+欧拉计划的题目难度不一，对于大多数人来说，解题就是一个逐渐学习的过程。也就是说，每当你解开一个题目，你将会了解一些新的知识，从而帮助你着手解决以前无从下手的题目。因此，任何有决心的参与者，即使进展再缓慢，也一定能逐一解开每一道题。
+
+"Project Euler exists to encourage, challenge, and develop the skills and enjoyment of anyone with an interest in the fascinating world of mathematics."
+“欧拉计划的存在，是为了每个对数学感兴趣的人，鼓励他们，挑战他们，并最终培养他们的能力与乐趣。”
